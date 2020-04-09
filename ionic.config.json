@@ -1,0 +1,7 @@
+{
+  "name": "Mega Ultra Studios",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
